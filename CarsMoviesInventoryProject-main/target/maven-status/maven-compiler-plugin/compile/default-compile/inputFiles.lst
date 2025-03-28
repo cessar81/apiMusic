@@ -1,0 +1,12 @@
+C:\Users\301\Desktop\CarsMoviesInventoryProject-main\src\main\java\com\carsmoviesinventory\app\AppApplication.java
+C:\Users\301\Desktop\CarsMoviesInventoryProject-main\src\main\java\com\carsmoviesinventory\app\Controllers\AlbumController.java
+C:\Users\301\Desktop\CarsMoviesInventoryProject-main\src\main\java\com\carsmoviesinventory\app\Controllers\SongController.java
+C:\Users\301\Desktop\CarsMoviesInventoryProject-main\src\main\java\com\carsmoviesinventory\app\DTOs\AlbumDTO.java
+C:\Users\301\Desktop\CarsMoviesInventoryProject-main\src\main\java\com\carsmoviesinventory\app\DTOs\SongDTO.java
+C:\Users\301\Desktop\CarsMoviesInventoryProject-main\src\main\java\com\carsmoviesinventory\app\Entities\Album.java
+C:\Users\301\Desktop\CarsMoviesInventoryProject-main\src\main\java\com\carsmoviesinventory\app\Entities\Song.java
+C:\Users\301\Desktop\CarsMoviesInventoryProject-main\src\main\java\com\carsmoviesinventory\app\Exceptions\GlobalExceptionHandler.java
+C:\Users\301\Desktop\CarsMoviesInventoryProject-main\src\main\java\com\carsmoviesinventory\app\Repositories\AlbumRepository.java
+C:\Users\301\Desktop\CarsMoviesInventoryProject-main\src\main\java\com\carsmoviesinventory\app\Repositories\SongRepository.java
+C:\Users\301\Desktop\CarsMoviesInventoryProject-main\src\main\java\com\carsmoviesinventory\app\Services\AlbumService.java
+C:\Users\301\Desktop\CarsMoviesInventoryProject-main\src\main\java\com\carsmoviesinventory\app\Services\SongService.java
